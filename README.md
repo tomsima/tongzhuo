@@ -1,4 +1,4 @@
-Emacs extension packages I use for teaching and lecture delivery.
+A collection of emacs extension packages I use for teaching and lecture delivery.
 
 # Tongzhuo classroom tool
 
@@ -12,15 +12,25 @@ Emacs extension packages I use for teaching and lecture delivery.
 - the output buffer is set to org-mode and can be exported to pdf for custom vocabulary lists that covers all spontaneous word lookups covered in a class
 - the interactive command for lookups is 'my-chinese-lookup
   - I use xah-fly-keys and have this set as  (define-key xah-fly-command-map (kbd "d") 'my-chinese-lookup) in my init.el
+ 
+## List of emacs commands
 
-# Instant Cangjie code check
+- my-cedict-add-entry (add an entry to cedict file with the correct formatting - prompts for chinese, pinyin, then definition)
+- my-chinese-lookup (runs jieba on characters around cursor and looks up in cedict. manually-selected text is looked up without jieba)
+- phonetic-lookup (draws an info buffer for character cursor is placed on, pulling information from cedict, image files and ~/.emacs.d/zidian.org notes)
+- phonetic-lookup-prompt (run phonetic lookup on a character that is typed into a minibuffer prompt)
+- my-cedict-search-by-pinyin (look up a character by typing in pinyin+tone number, draws a buffer with all matching characters and provides their corresponding cangjie code)
+- cangjie-lookup-char (display cangjie code for character under cursor)
+
+
+## Instant Cangjie code check
 - imports Cangjie 5 code database as a hash table
 - minibuffer requests a numbered pinyin string to search the database, which then searches CC-CEDICT for the corresponding character(s)
 - these character(s) are then matched in the CJ5 database and the corresponding Cangjie codes are printed into a buffer called *cangjie-check* that splits on a 2:1 ratio and fills the smaller window
 - the search query is converted into zhuyin fuhao (bopomofo) and printed alongside the headword in queries that are 2 or more characters. For single character queries there is no headword, only the zhuyin.
 - this buffer is wiped before printing a new search result, but every search result is printed to an org file that has zhuyin formatted as headings. This is because cangjie checks are done by me for characters I forget how to decompose on the spot, and this output file serves as a revision tool.
 
-# Other integrated features
+## Other integrated features
 - Japanese onyomi and Korean character pronunciation databases
 - Cursive character database (top 1000 frequency list, with manual addition capability)
 - vocabulary builder for in-class vocab mining and testing
