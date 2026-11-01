@@ -1,0 +1,762 @@
+* 语
+in older texts this is used as a verb in place of modern Mandarin 说; in such instances it should be pronounced _yù_, eg. in 三國「诸侯并皆不语」 /none of the princes spoke; the princes all stayed silent/
+* 毬
+this character is used specifically for the vulgar meaning of 'balls', and turned up in 《棋王》in the word 毬死 meaning '(they only went and bloody) died'
+* 稱
+_chēng_ to call, name
+_chēng_ to weigh (cheng4 scales is now written 秤)
+_chèn_ to fit, match, suit
+* 缝
+_fèng_ n. a crack, seam
+_féng_ v. to stitch, sew up
+* 击
+_jī_ to hit
+_jí_ to strike in 击鼔 (today ji1 is still pron ji2 also in TW)
+* 匙
+_shì_ in 钥匙
+_chí_ when MW for scoops
+* 切
+_qiè_ to closely stick to, cling to, press up against
+_qiē_ to cut
+* 蛇
+_shé_ snake
+_yí_ winding, meandering, serpentine 虚与委蛇
+* 勒
+_lè_ n. bridle, halter, v. to rein in
+_lēi_ v. to force, coerce
+_lè_ to command, lead an army, eg.
+吕布勒兵到山下
+/Lv Bu led his army down to the bottom of the mountain/
+* 正
+_zhèng_ exactly
+_zhēng_ first month of the year (正月)
+* 绿
+_lǜ_ green
+_lù_ in 绿林好汉
+* 量 
+_liàng_ a measure
+_liàng_ to estimate, figure, reckon, suppose
+_liáng_ to measure
+in 不自量力, 量 is pronounced 4th tone, as it means 'over /estimate/ your strength'
+* 石
+_shí_ stone
+_dàn_ a measure of weight
+* 嚼
+_jiáo_ chew (used on its own)
+_jué_ chew (used in compounds)
+* 菌
+_jūn_ bacteria (microbiology) / fungus (botany)
+_jùn_ fungus (culinary)
+* 虹
+_hóng_ rainbow (from phonetic 工)
+_jiàng_ rainbow (coll.) (also from phonetic 工 which turns up as the 匚 in 匠)
+* 夾
+_jiā/jiá_ to pinch, clip, clamp
+_jiā_ a clip
+the pronunciation for this character is regional preference, safest is to go for jiā
+* 号
+_hào_ a number
+_háo_ to howl (voice/wind)
+* 载
+_zài_ to carry, be loaded up with
+_zài_ to record, publish
+_zǎi_ to write down, record, eg. 记载, 下载 ('write to disk') > this is also pronounced zài in TW
+* 行
+_xíng_ walk, way of going
+_háng_ ranks; profession
+_héng_ in 道行 Taoist monk powers 
+* 扇
+_shàn_ for the noun, but note:
+搧 _shān_ for the verb 'to fan' (手+扇)
+* 盛
+_shèng_ adj. 'magnificent'
+_chéng_ v. 'to ladle' (eg. 盛酒)
+* 转
+_zhuǎn_ move, shift, change direction, take a turn (轉來轉去 turn this way and that, constantly changing direction, 转弯)
+_zhuàn_ revolve, rotate (like a fan spinning)
+_zhuàn_ go for a casual walk 转一转
+* 曝
+_pù_ (southern/TW)
+_bào_ (northern/ML)
+compare 瀑 pù 'waterfall'
+* 划
+_huá_ in 划船, 划算 (lit. 'paddle' or 'weigh out')
+_huà_ in 计划, 划分 (lit. 'scrape')
+** etymology
+technically huá is 划 and huà is 劃, but this distinction is lost in simplified. However, in traditional 劃 huà is sometimes written as 畫huà, and as a hangover of this 劃 huà is sometimes written 画 in simplified instead of 划.
+* 禁
+_jìn_ prohibit
+_jīn_ endure
+* 肿
+ _zhǒng_ swollen (appearance), compare with: 脹 _zhàng_ swollen (feeling)
+* 脹
+ _zhàng_ swollen (feeling), compare with: 肿 (腫) _zhǒng_ swollen (appearance)
+* 背
+this character has the 'physical' meanings:
+_bèi_ N the back
+_bēi_ V to carry on the back
+and the corresponding abstracted meanings:
+_bèi_ V to turn your back on, break an agreement, eg. 背约，違背
+_bèi_ V to learn by heart, recite, 背誦 (lit.'to carry within you')
+* 湯
+_tāng_ water, soup
+_shāng_ flow turbulently in 浩浩湯湯
+* 宿
+_sù_ V stay overnight
+_xiù_ N constellation 
+_xiǔ_ MW for nights
+* 凉
+_liáng_ cool, cold (makes you shiver)
+_liàng_ let sth cool down
+_liàng_ put out to dry (more correctly written 晾)
+* 恶
+_è_ evil (opposite of 'benevolent', 善)
+_ě_ only used for the word 恶心
+_wù_ bad (opposite of 'good', 好)
+_wū_ literary Chinese, meaning 怎么, 哪里, eg. 恶能
+* 落 
+_luò_ decline, sink, come to rest
+_là_ to drop down, throw down, be left behind
+* 将
+_jiāng_ be about to
+_jiāng_ 把
+for the 象棋 meanings:
+_jiāng_ v. "check!" 
+_jiàng_ n. the general
+In literary texts, 将 sometimes appears directly after the verb. Its role in this position is simply euphonic, improving the rhythm for single syllable verbs. eg.
+有一彪人马杀 *将* 出来
+= 有一彪人马杀出来
+"/there is a cavalry unit charging towards (us)"/
+* 乏
+compare with:
+泛 _fàn_ extensive; flood
+眨 _zhǎ_ blink
+贬 _biǎn_ devalue
+* 泛
+compare with:
+乏 _fá_ lack; be weary
+眨 _zhǎ_ blink
+贬 _biǎn_ devalue
+* 眨
+compare with:
+乏 _fá_ lack; be weary
+泛 _fàn_ extensive; flood
+贬 _biǎn_ devalue
+* 贬
+乏 _fá_ lack; be weary
+泛 _fàn_ extensive; flood
+眨 _zhǎ_ blink
+* 遗
+compare with:
+遣 _qiǎn_ to send, dispatch
+the pronunciation _wèi_ is used often in 三國, but I have never heard it elsewhere. 术密遣人遗书于孙坚 /Yuan Shu secretely dispatched someone to give a message to Sun Jian/
+* 遣
+compare with:
+遗 _yí_ lose, leave behind, posthumous
+* 粹
+compare with:
+碎 _suì_ smashed to pieces
+* 碎
+compare with:
+粹 _cuì_ essence, pure
+* 折
+in 三國 this character is often used for the meaning 'suffer a loss' as in when a general is killed in battle, eg. 坚为折了祖茂，伤感不已。 /Sun Jian was heartbroken upon learning of the loss of his general Zu Mao/
+* 莫
+this can in fact be used in spoken Chinese, and is heard often in Hubei dialects in phrases like 莫能 (= 不能). It /can/ be used in this way in Putonghua, but it is pretty rare.
+* 然
+- (wr.) used alone for /right, correct/:
+曹操曰：莫非破黄巾刘玄德乎？瓒曰： *然* 。
+/Cao Cao said: That can't be the same Liu Bei that defeated the Yellow Turban rebels, is it? Gongsun Zan replied: Correct./
+
+- (wr.) used alone for /however, but/:
+  *然* 允老迈无能之辈...
+  /However, I (Wang Yun) am old and without talent.../  
+
+- used as a suffix in Mandarin for the meaning '(with...) -ness'. It sometimes functions a little like the English '-ly'. Here are the most important examples:
+- 虽然 _suīrán_ /although/
+- 忽然 _hūrán_ /suddenly/
+- 当然 _dāngrán_ /of course/
+- 自然 _zìrán_ /nature/natural/ (天然)
+- 安然 _ānrán_ /safe and sound, safely/
+- 显然 _xiǎnrán_ /obviously/
+
+* 挑
+_tiāo_ 担 (carry on the shoulder)；
+_tiāo_ to pick out, eg. 挑选 (pick out, select)；挑剔 (be picky)
+_tiǎo_ to raise up, lift up
+/nb./ for the English 'pick up', 捡 _jiǎn_ should be used, which infers a simple motion of picking up, where 挑 is about lifting up something heavy or important 
+* 著
+_zhuo2_ 命令 order (this meaning only in older texts like 三國
+* 拨
+compare with 拔 _bá_ extract, pull out. (拔 is the same in simplified and traditional)
+* 掣
+= 拔出
+「坚背后程普、黄盖、韩当亦掣刀在手。」三國
+* 参
+The use of _cēn_ turned up in 三國： *参差* _cēn cī_ 宝带兽平吞，错落锦袍飞凤起
+* 倒
+_dào_ to be in an overturned positioned
+_dǎo_ to overturn, to be overturned
+* 顿
+adv. suddenly; immediately
+* 谢
+术惶恐无言，命斩进谗之人，以 *谢* 孙坚。 (三國) /Yuan Shu was terrified and left speechless, and ordered the person who had fed him the rumour be killed as an apology to Sun Jian/
+* 幸
+[wr.] come; arrive (of an emperor) 
+吾观旺气实在长安，吾欲奉驾西 *幸* /I have seen that true prosperity lies in Xi'an (not Luoyang), I (the emperor) will have my carriage drawn to the west/
+* 宁
+** etymology
+when 寧 was simplified to 宁, the character 宁 already existed in the script as zhù 'to store up; concentrate'. When it was borrowed for the simplified version of níng, to avoid confusion, a simplified form of zhù, 㝉, was invented for characters in the series related to storing up: 贮 'store', 伫 'wait for a long time' See also note on 㝉
+* 㝉
+** etymology
+When 宁 was officially adopted as the simplified form of 寧, pre-existing characters with 宁 zhù as a component were simplified by replacing 宁 with the component form 㝉; in modern usage the form 㝉 is a simple-form component, not an independent character, since the old character/component 宁 zhù is obsolete; in historical contexts 㝉 may be used in simple-form texts as an independent character to specify 㝉/宁 zhù, vs. 宁/寧 níng/nìng; cf. 宁.
+* 搭
+'join together', notch an arrow on a bow, eg. 荣 *搭* 上箭，射中操肩膊 /Xu Rong notched an arrow to his bow, and shot it into the shoulder of Cao Cao/
+* 散
+_sàn_ refers to when /people/ who have gathered for a meeting disperse and go home to their own individual homes
+_sǎn_ refers to when /things/ fall apart
+* 狩
+this character is historically connected to 獸(兽) _shòu_ 'beast', the identical pronounciation is not a coincidence
+* 害
+in written contexts, 'to contract an illness'
+* 相
+_xiāng_ +V - to V sb. (especially in four-syllable phrases). Used this way very often in 三國, eg. 何强相逼？ /why are you being so forceful (towards me)?/
+* 拔
+(in military contexts) to evacuate, pull out, retreat 
+拔寨离洛阳而去 (三國)
+compare with 拨 _bō_ 'to turn around'
+* 牧
+for government official, used eg. 
+冀州牧韩馥 /governer of Jizhou, Han Fu/
+* 粮
+The simple-form character 粮 is an OG abbreviation (ie. used in old writing) of 糧 combining 米 ‘rice’, and 良 liáng ‘good’ (phonosemantic): rice/grain is good food.
+* 说
+There are two different versions of this character, the modern version where the dots at the top go inwards 丷, and the more traditional version where the top dots are actually 八.
+* 乃
+the very rare variant 廼 is actually 乃+西
+note that the old stroke order writes 丿 first, but in modern stroke order 丿 is written last
+= 是 in older texts, eg. 吾乃袁氏之故吏 /I am an old subordinate of Yuan Shao (I used to serve under Yuan Shao)/
+* 辈
+people of a certain kind, eg. 韩馥无谋之辈 /Han Fu is not the strategic kind/ 
+* 却
+in older literary texts, has a meaning like 还 or 正好
+now (in storytelling), eg. 却说
+the simplified form is an old simplification
+* 辛
+compare with 幸 _xìng_
+** etymology
+originally depicted a chisel-like tool used as a torture device for punishing criminals
+* 彼
+in older literary, eg 三國, represents honorific 他
+将军可请彼同治州事 /General (you) can request him to take control of state affairs.../  
+* 即
+often used as a short form of 立即 (immediately, at once)
+* 休
+has the older meaning of 'come to an end', eg. 冀州休矣！ /This is the end for Jizhou!/
+* 冤
+this character /used to/ have a dot at the top for a full 宀, but at some point it got dropped and now the top is written 冖
+* 杀
+** etymology
+the simplified form 杀 takes the left hand side of the character. Defrancis says this is an ancient variant: the bottom was originally 豕 (pig) and 乂 (cut down, cross out, shoot).  殳 (spear) is a picture of a hand 又 holding a weapon 几. It is unclear what 几 originally depicted, it seems likely it was a bendable spear or a whip/mace.
+* 尔
+** etymology
+the original character was 𤕨 meaning /ornate/, which was first simplified to 爾, then still in ancient times was simplified again by just writing the top part 尓/尒. The character was then likely borrowed by the rebus principle to write the word _ér_ /you/.
+* 你
+literary equivalents for 'you':
+尔 early period 《诗经》《尚书》
+汝 later period 《三国演义》
+钧 honorific, later period eg. 未审钧意若何？ /I dont know how you (my lord) feel about this?/
+
+when 尔 is used in later period texts, it is used by higher-ups to their subordinates, and often has a condescending tone. eg. 
+绍亦指瓒曰：“韩馥无才，愿让冀州于吾，与 *尔* 何干？”瓒曰：“昔日以 *汝* 为忠义，推为盟主" /Yuan Shao pointed at Gongsun Zan, and said 'Han Fu is useless, he wanted me to take control of Jizhou, whats it got to do with YOU?'. Zan replied, I used to think you were honourable, and supported you as head of the rebel alliance/
+* 人
+In handwriting, the 'na' stroke ㇏ typically starts far lower than in the woodblock type. In ancient versions, the top of the body is still visible. The origin of 儿 'child' is in fact a variant of 人 and also meant 'person'.
+* 羌
+羌族 the Qiang nationality;
+羌羯 Qiāng-Jié ancient nationalities of west China; Proto-Tibetans
+** etymology:
+The Shuōwén Seal form of 羌 combines 儿 rén ‘person’, and 𦍌(羊) yáng ‘goat/sheep’; a nomadic shepherd tribe. (lit. 'sheep-person')
+* 但
+in older literary texts, used as 只
+* 斩
+** etymology:
+originally an ancient form of capital punishment, tearing apart at the neck or the waist (斩杀, 腰斩 = 车裂 ‘tear asunder by horses/oxen/carts’).
+Karlgren: “[斬] Cut asunder, cut off, decapitate — 車 chariot with 斤 axes on it”
+* 傅
+I find the phonetic series for 尃 _fū_ a little difficult to remember:
+傅 _fù_ eg. 师傅 (neutral in compounds)
+博 _bó_ eg. 博士 
+搏 _bó_ eg. 搏斗
+溥 _pǔ_ eg. 溥仪
+缚 _fù_ eg. 束缚
+膊 _bó_ eg. 胳膊 (neutral in compounds)
+* 日
+In the Han dynasty there was a name in use 日磾 _Mì Dī_. In this single instance 日 is pronounced mì, this is also preserved in Cantonese, typically pronounced yat6, mik6 is given as an alternative pronounciation.
+* 爨
+** etymology
+Combines 𦥑 ‘two hands’ placing a shape 同 like the lower part of 鬲 /cooking pot/ representing a ‘rice/food steamer’, over 冖 for the mouth/top of the 灶 ‘wood-burning stove’, where 廾(𠬞) another pair of hands feed 林 /fuel/ into the 火 ‘cooking fire’. In the modern script 廾 has been abbreviated to 大.
+* 为
+The common full form 為 is an abbreviation of the alternate full form 爲; 爲 is more traditional, since it corresponds more closely to the Seal (stroke for stroke).
+** etymology:
+Older graphs associated with 為/爲 have 象  xiàng ‘elephant’ below, with 爫/爪 above for the hand of the rider/driver making the elephant 'do' labour (giving the meaning 'do, govern')
+Note that the simplified form 为 is an ancient simplification that has existed for thousands of years.
+* 援
+compare composition with 缓 _huǎn_ 'slow'
+* 童
+** etymology
+An ancient character. Originally meant /male criminal/, which developed into /boy servant/, then later expanded to /infant, child/. In literary texts the meaning is extended even further from /infant/ to /bald/ (as infants are associated with sparse hair). The original meaning of /male criminal/ is shown in the depiction of 辛 _xīn_ /a torture tool > punishment/ at the top (now simplified to 立), being used to poke out an eye (a common punishment for prisoners of war), with the phonetic 東 _dōng_ at the bottom (now simplified to 里).
+Defrancis suggests that the bottom is actually a simplification of 車, depicting a seesaw. This is because in seal forms of the character there is a 儿 at the top, depicting a child on a seesaw.
+- see related character 妾 _qiè_ /female criminal > concubine/
+* 妾
+** etymology
+Originally meant /female criminal/, visible in the 金文 form below, where 辛 a torture chisel is used to punish a woman 女. This was originally a parallel character to 童 /male criminal/, though now they mean very different things.
+* 女
+** etymology
+The Shuōwén Seal form of 女 derives from old pictographs sketching a woman; in much older graphs the woman seems to be kneeling/sitting; a central loop represents the folded arms (as cradling a child), or breasts; the first stroke (㇛) of the modern form corresponds to the central curved stroke of the Seal form.
+Compare: 母 _mǔ_ /mother/, 毋 _wú_ /do not/don't/; these are related modifications of 女, and help clarify its structure: in 母 _mǔ_ /mother/ two dots are added to mark the nipples/breasts (of a nursing mother); and in 毋 _wú_ /do not/ the two dots are a single line (抹胸 old-style garment covering/binding the breasts, chest-wrap/halter/bodice/vest/brassière; the strokes of 母 (omitting the two dots) can be seen as a variant of 女.
+Ancient graphs associated with 女/母/毋 are very similar to each other; 坤(申) _kūn_ /female/, 身 _shēn_ /(pregnant) body/, 中 _zhōng_ /center/
+Some commentators suggest that the 'kneeling woman' is an indication of the subservient position of women in traditional Chinese society, but this is almost certainly an ethnodeviant reading of the meaning (ie. it simply doesn't have any connotation relating to social position).
+* 身
+** etymology
+Originally meant /pregnant body/. This can be seen in early graphs, in which the character is essentially the same as the early graphs for 女 and 母, but with a single dot marking the stomach. The development of this character nicely shows how the cursive form is directly developed from the early bamboo graph forms, and is /not/ an abbreviation of the full form, which is actually a much later abstraction.
+* 坤
+** etymology
+Originally written 申, remarkably similar to the early forms of 女 and 母, both which are essentially written as 中 with dots to represent differentiation in meanings. See 申
+Also remarkably similar in its early form to 卵 _luǎn_ /egg, ovum/
+* 卵
+** etymology
+The early graph of this character looks remarkably similar to the early graphs of other female-related characters: see 申  母  女  身. It is an abbreviation of 黽 (_měng_ /frog/ originally a graph depicting a frog with bulging belly full of eggs)
+* 黽
+** etymology
+_měng_ /frog/ originally a graph depicting a frog with bulging belly full of eggs. See 卵
+* 申
+** etymology
+early graph has a variety of meanings, depicting a lightning bolt (today written 电), but also used for /flexible/ (an extension of its related characters 女/母 /female/). In fact, there is argument that the original meaning was one and the same: /lightning > life travelling from heaven to earth > life force > birth > person who is able to give life/. See also 神
+* 神
+** etymology
+The Shuōwén Seal form of 神 _shén_ /spirit/god/ combines 礻(示 _shì_) /heavens/rites/, and 申 _shēn_ /the myriad living things descend from the gods of heaven and earth, as lightning descends from the heavens/. This might explain why the cursive form has an additional dot at the bottom, representing the 'other' half of the 𦥑. Formerly also written 㑗 (a variant of 身)
+* 示
+** etymology
+The Shuōwén Seal form of 示 _shì_ /heavenly bodies/ is said to combine the old form of 丄 (上) _shàng_ /up/above; sky/heaven/, with a shape like 小 (three lines/rays descending from the heavens/sky above). The three lines descending look remarkably like the early graphs for 气 /gust of wind/, 巛(川) /river of rain/, 雨 /rain/, 云 /swirling cloud/
+* 取
+In older texts such as 三國, used for the meaning  /go after, take/capture/. eg. 程普、黄盖分兵两路，直取黄祖营寨 /Cheng Pu and Huang Gai split up and went down two different routes, in order to capture Huang Zu's military encampment/ 
+** etymology
+The combination of 耳 /ear/ and 又 /hand/ ’ relates to ancient military practice of 斩馘 _zhǎnguó_ /cutting off (and taking) the enemy's left ear/, in order to tally/report battle/enemy casualties/success; only the left ear was taken/tallied in order to prevent inflation of the prisoner/casualty reports. Formerly also wr. 刵 (with a 刀 knife on the right instead of the hand)
+* 杂
+** etymology
+Cognate with 集 _jí_ /collection/. Originally composed of 集 on the right and 衣 _yī_ /clothing/ on the left. 集 split into 隹 and 木; 木 moved over to the left side beneath 衣, resulting in the modern full form 雜.
+The simple form 杂 is derived from 雜 by omitting 隹 (a good simplification), and replacing what was once 衣 with 九 (a rubbish idea!)
+See also 卒
+* 卒
+** etymology
+The Shuōwén Seal form of 卒 (䘚) _zú_ /uniform; servant/soldier/ is said to depict the uniform of a slave/servant/soldier, combining 衣 _yī_ /clothing/ with an extra stroke (mark/badge/insignia of rank) below; cf. 衣, in which 从 /follow/ (march in single file/ranks).
+* 衣
+** etymology
+The Shuōwén Seal form of 衣 _yī_ /upper garment/clothing (shirt/coat/jacket)/ is said to combine 上  _shàng_ /over (on top)/, and 从 /two people together/: people rely upon clothing (put clothing upon/over their skin) in polite company (and to keep warm) (this is a folk etymology: older graphs associated with 衣 seem to depict a kind of leather coat with 从 two sleeves left and right (made from animal hide; cf. 革, 皮).)
+The cursive form is likely drawn from the original seal character, whereas the running form is a simplification of the regular.
+
+** Compare
+常 _cháng_ /lower garment (kilt/skirt)/ (裙子); SW contrasts 衣 vs. 常 
+初 _chū_ /begin (cut/prepare garments from animal skins)/
+裁 _cái_ /prepare/cut leather/cloth (make garments)/
+求 _qiú_ /fur/leather clothing/,
+表 _biǎo_ /jacket/
+卒 _zú_ /soldier/ (uniform: 衣 with 一 mark/insignia)
+
+* 表
+** etymology
+The Shuōwén Seal form of 表 /outer (fur) garment/ combines from 衣 _yī_ /clothing/ and 毛 _máo_ /hair/fur/. 亠 + 毛 + 𧘇, with 毛 giving the phonetic _ao_. The original character was written 𧘝 and /outer garment/ became abstracted to the meaning /outer (layer)/
+
+* 常
+** etymology
+Originally this character meant /lower garment (kilt/skirt)/, hence the 巾 _jīn_ /towel/ at the bottom, with 尚 _shàng_ giving the phonetic.. Later as the character became borrowed for the homophone _cháng_ /often/, the original meaning was clarified by adding a 衣, giving the character 裳
+* 虎
+** etymology
+Derives from very old pictographs depicting the animal with feet/claws to the left, head and gaping jaws above, and long tail below.
+In later ages the character became stylized and its interpretation became less clear; the lower part of 虎 (like 几/儿 in the modern forms) suggests a tiger rearing up on its hind legs (standing up like a man), or a man-eating tiger, but formerly represented the legs of a deer killed by the tiger.
+Gradually two stylised forms were popularised, one with 几 at the bottom and one with 巾 representing a 'tiger skin pelt'. The latter became the basis for the cursive form, while the former became the basis for the running and modern regular forms
+* 娶
+The addition of 女 specifies what kind of 'take' is implied - the taking of a woman (as one's wife).
+Compare with 嫁
+* 嫁
+Compare with 娶
+* 竿
+Compare with 杆 _gān_ /pole, staff/ (essentially equal to 竿 in this meaning). 杆 can also refer to _gǎn_ (written 桿 in traditional), which is used as a MW for pole-shaped implements.
+Defrancis notes "竿, with 竹 (zhú) ‘bamboo’, may be used for smaller poles, esp. those made of bamboo, while 杆 is used for larger poles, and those made of wood (strictly, bamboo is a grass, not a wood)."
+* 杆
+_gān_ noun
+_gǎn_ MW
+Compare with 竿 _gān_ /pole, staff/ (essentially equal to 杆 in this meaning). 杆 can also refer to _gǎn_ (written 桿 in traditional), which is used as a MW for pole-shaped implements.
+Defrancis notes "竿, with 竹 (zhú) ‘bamboo’, may be used for smaller poles, esp. those made of bamboo, while 杆 is used for larger poles, and those made of wood (strictly, bamboo is a grass, not a wood)."
+* 罢
+** etymology
+From 罒(网) _wǎng_ /net/ over 能 _néng_ /bear/ (today written 熊) - a 能 bear caught in 网 a net, indicating the abstract meaning /stop, cease/.
+In the simple form 罢, 能 is replaced by 去 _qù_ /go/. This is a modern simplification that unusually uses a semantic rather than a phonetic for its component replacement. 吧 is nowadays used in place of 罢 for meaning 2, perhaps for this reason.
+
+* 某
+** etymology
+Originally 某 _méi_ /plum/prune/, combining 木 _mù_ /tree/, and 甘(𤮺) _gān_ /sweet (fruit)/ to give the original meaning /sweet/edible plum tree/fruit/.
+Later rebus borrowing for the abstract _mǒu_ /oneself, certain, some/, and the original meaning saw the addition of 木 for 楳/梅 _méi_ /prune/plum/
+* 才
+** etymology:
+Originally a depiction of a sprout sprouting out of the ground (屮) with an additional 丿for sprouting branches.
+“The etymon ‘sprout’ is now differentiated into:
+1. 才 /talent/
+2. 材 /material/
+3. 財 /wealth/
+4. 纔 /just, then-and-only-then/ ( < ‘budding, beginning’).
+In the last meaning as an adverb, the more complicated character is popularly regarded as the ‘correct’ character and character 1 (才) is regarded as a ‘simplified’ loan character for 4 (纔), whereas =actually character 1 (才) is the original by a semantic extension which has been forgotten by the average speaker-writer.= ” —Y.R. Chao, Grammar of Spoken Chinese, page 175.
+* 葬
+** etymology
+The original character is a dead body with grass above and below, 茻 with 死 in the middle.
+Karlgren notes "the word is cognate to 藏 _cáng/zàng_ /to hide/ ”
+* 藏
+Grass 艹 over 臧. See 臧
+* 臧
+phonosemantic: 臧 _zāng_ /war captive/slave/ combines 臣 _chén_ /servant/, and 戕 _qiāng_ /kill/(foreign) attacker/
+* 戕
+phonosemantic: combines 戈 _gē_ /lance-axe/, and 爿 _qiáng_ 
+* 或
+perhaps; maybe; probably
+or; either or
+(wr.) someone; certain person. eg.
+问：“其子年几岁矣？” *或* 答曰十七岁
+/He asked, "How old is his son?" and someone replied "seventeen"/  
+** etymology
+originally meant /territory, border/, today 域 _yù_. The character 或 depicts a region with borders marked to its north and south, with a 戈 weapon on the right to show the area is guarded by soldiers 
+* 父
+** etymology
+a hand raising up a stick/cane
+* 侯
+** etymology
+/combines 𠂊(人) _rén_ /person/ above (the target was shaped like a human figure, enemy soldier/commander), with 厂 _hǎn_ /cliff-shaped wood-framed backdrop with coarse cloth spread out around the target, to catch arrows/ and 矢 _shǐ_ /arrow/ (hitting the center of the target). In earlier graphs there is no 人, it is just a picture of an arrow on a wood frame, indicating the early meaning /archery target/. Later this meaning became attached to the concept of government and officials, as officials would practice archery and sometimes be elected based on hitting a target.
+* 役
+** etymology
+Originally meant /defensive/outpost military service/,  combining 殳 _shū_ /laminated bamboo lance/spear/ and 彳 _chì_  ‘short steps, march’ (phonosemantic)
+
+* 殳
+** etymology
+/lance/stab/flail/ combines 又 _yòu_ /hand/ and 𠘧 _shū_, a phonosemantic component, depicting a pointed bamboo flexible lance/spear, or a whip/flail as carried by soldiers
+Compare:
+役 _yì_ /forced military service/;
+殺 _shā_ /kill/ (S: 杀 annoyingly drops 殳！)
+殸 _qìng_ /stone chime/
+
+* 积
+** etymology
+The simple-form character 积 is an old form, re-used as an abbreviation for the full form in the simplified script. Because of this reusage, it inconsistently replaces the full-form component 責  with 只, not 责. Writing 只 in the simple form for full-form 責 is exceptional (it only happens in 积); usually 責 is simplified to 责, and 戠 as a component is simplified to 只.
+The full-form character 積 (16 strokes) is itself an abbrev. of older forms such as 𥢼 (18 strokes), replacing the old component 𧵩 (13 strokes) with the modern form 責 (11 strokes).
+The full-form combines 禾 _hé_ /grain/ and 责/責 _zé_ (phonosemantic) /require payment/.
+
+Compare 戠 > 只
+識 > 识 _shí_ /know/
+職 > 职 _zhí_ /duty/
+織 > 织 _zhī_ /weave/
+幟 > 帜 _zhì_ /banner/
+
+Compare 責 > 责
+績 > 绩 _jì_ /grade/
+債 > 债 _zhài_ /debt/
+漬 > 渍 _zì_ /soak/
+* 舌
+** etymology
+originally a depiction of a forked tongue sticking out of a mouth 口, presumably a snake tongue for the easy visual connotation. Dots were added at an early date, either representing spit coming out of the mouth (Li Xunsheng) or tastebuds on the tongue (Defrancis). These dots gradually coalesced from the horizontal movement of the brush, resulting in a long horizontal line in the modern abstracted form
+* 戈
+** etymology
+very early character that originally a depiction of a halberd or battleaxe. As with other weapon characters, it gradually became abstracted.
+compare:
+弋 _yì_ /arrow tied to a string (for hunting)/
+戉 _yuè_ /large battleaxe with curved blade/
+戟 _jǐ_ /halberd (a lance with a single axe head)/
+𢦏 _zāi_ /cut, injure/
+我 _wǒ_ /serrated axe (phonetic borrowing: 'I, me')/
+* 我
+** etymology
+originally meant /serrated axe/. At some very early stage it came to mean 'I, me', presumably a rebus phonetic borrowing: the word _wǒ_ /I, me/ existed in the spoken language; when people needed to write this down, they drew a picture of the _wǒ_, a well-known battle axe, so when read aloud it would sound the same.
+there is a rare variant of this character where the original appearance can still be seen: 𢦐
+the cursive form of this character was invented at a very early date, and differs noticeably from the running script. It appears to treat the character as 禾, putting the dot from 戈 above the 禾and then writing the 𫠠. The reason for this difference is probably because at the time the scribes were first writing in cursive, the wo weapon was still in common use, and they likely saw the character as the head of the weapon 彐 + the handle 𫠠 and so wrote in that order. The running script goes through the character according to the later abstracted version, resulting in a very different running cursive form.
+* 吁
+籲 is the full form only for the meaning /appeal, plead/, so should only be pronounced _yù_. The only time this is really important to know is for the word 呼吁
+* 重
+_chóng_ has the meaning 重新、再次 in classical texts. eg.
+重扶社稷，再立江山（三國）
+/recover the country and reestablish the dynasty/
+* 许
+** etymology
+combines 言 'words' and 午 'permission'
+* 午
+** etymology
+what this character originally depicted is not known for sure (as is true for most of the 天干地支). Older graphs associated with 午 are sometimes said to depict the strands of a rope, in the earliest periods like 𢆯(幺,糸, 玄, 索); or in later periods 午 is seen as the old written form of 杵 _chǔ_ /pestle/, 仵, 牾, 啎 _wǔ_ /conflict/contradict/, and also associated with the top (arrowhead/shaft) of 矢.
+* 望
+In the old form 朢(𦣠) there is no phonetic component, and so replacing the component 臣 with 亡 _wáng_ gives the later form 望 with added phonetic component; the bottom component of 望 is the old character 𡈼 _tǐng_ /stand up straight/tall (to see far off into the distance)/, *not* 王 _wáng_ /king/.
+“Moon facing the sun, full moon; to face, gaze to a distance, look out for, long for, expect, hope — 月 moon is signific and 亡 phonetic; below, the seal has 壬 (interpretation uncertain), not 王” (Karlgren)
+* 月
+As a modern component, 月corresponds to various traditional components: 月/肉/舟.
+Compare: 月 _yuè_ /moon/ (radical 74), 肉(𠕎) _ròu_ /meat/ (radical 130), 舟 _zhōu_ /boat/ (radical 137).
+* 嵌
+** etymology
+some disagreement on the origin of this character. Defrancis says it was originally written 嶔, with 欽 _qīn_ /admire/ at the bottom serving as a phonosemantic, the full character meaning /mountain ravine/ (a river /inset/ in the mountains). Outlier says the bottom was 𣢟 _xián/hán_ and served only as a phonetic. I am inclined to side with Defrancis.
+* 宅
+** etymology
+a house with a sprout in it
+* 候
+** etymology
+originally meant /spy/scout/watch/. Combines 人 /person/ and 侯(矦) _hóu_ /archery target/ (phonetic).
+* 至
+** etymology
+depicts an arrow stuck in the ground: after having been shot up into the air (perhaps at a bird), it came back down again (perhaps with a bird).
+“Picture of an arrow that has reached its target.” —Lindqvist.
+* 冠
+** etymology
+combines 冖 /covering/, 元 _yuán_ /head/ (phonosemantic) and 寸 _cún_ /measure/rule/
+* 延
+compare with 廷 _tíng_ /palace court, courtyard/
+* 加
+originally /exaggerate/, adds 力 _lì_ /strength/force/ to 口 _kǒu_ /mouth/speech/: to forcefully assert/exaggerate (unjustly frame sb.), brag/boast, overstate/lie, commend, speak more than the truth.
+Compare: 嘉 _jiā_ /praise/honor/, formerly wr. 加.
+* 伐
+** etymology
+人 + 戈
+* 苦
+The character 苦 _kǔ_ originally meant /sow-thistle (bitter herb)/ and later by extension /bitter (taste/etc.)/. Combines 艹(草 _cǎo_) /herbs/, and 古 _gǔ_ /old/ (phonosemantic).
+* 短
+** etymology
+The Shuōwén Seal form of 短 _duǎn_ /short length/interval/ combines 矢 _shǐ_ /arrow (straight)/, and 豆 _dòu_ (phonosemantic).
+Defrancis suggests the component 豆 here is not simply being used for its phonetic value, but may in fact also be a visual pun on 壴(𧯛) as in 尌 _shù_ /stand up straight/; with the top of 壴 being cut off /short/ by the arrow, or perhaps shot over its 頭 _tóu_ /head/ (though this does seem a little far-fetched to me...)
+* 棋
+** etymology
+The Shuōwén Seal form of 棋(棊) _qí_ /encirclement chess board/piece/game/ combines 木 and 其(𠔝) _qí_ /winnowing basket/ (phonosemantic)
+The winnowing basket 'mesh' is borrowed to depict the grid on the chess board. The semantic is typically 木, as the board (and often pieces) are made from wood, but 竹 (箕) and 石 (碁) are also found, the latter presumably for referring to 围棋, where the pieces are made from stone.
+* 学
+** etymology
+In the full form, the top part 𦥯 depicts 𦥑 /two hands/ doing numerical calculations (爻 /two fives/ and 六 /six/, corrupted into 宀). At a later stage a student 子 was added below for clarification of the meaning. This is an ancient character, and what the hands 'do' at the top has had many variations over the millenia. The simplified form is an ancient simplification.
+* 新
+** etymology
+The Shuōwén Seal form of 新(𣂺) _xīn_ /cut/gather firewood/ (today written 薪) combines 亲(𣓀) _zhēn_ /hazel wood/ and 斤 _jīn_ /axe/
+Formerly 新 _xīn_ /cut/gather (fresh/new) firewood/fuel (food)/, in relation to forestry/deforestation practices (land clearing/reclamation); one year after land was cleared it was called 葘/菑 /virgin land/, and after two years it was called 新 or 新田; /virgin/unused land/ → /new land/ → /new/.
+* 斤
+** etymology
+this is an ancient character, originally meaning /hatchet, axe/,  said to be a picture of the axe blade 厂 and the handle 丅, but its always looked pretty abstract to me...!
+* 须
+** etymology
+In modern usage the simple-form character 须 _xū_ /beard; must/should/ replaces *two different full forms*, 須 and 鬚
+However, the visual differentiation was made at a much later date: the original character 須 _xū_ /beard/ (old primary meaning) is later also written 鬚 _xū_ for the meaning /beard/ (augmented form, with 髟 /long hair/), to distinguish that meaning from 須 _xū_ /must/should/
+The Shuōwén Seal form of 须/須 _xū_ /beard/ (hair on a man's lower jaw/chin) combines 页/頁 _yè_ /(human) head/ and 彡 _shān_ /lush hair/
+Compare: 首(𩠐) _shǒu_ /(hairy) head/ (in which the component 巛 /hair/ is on top, instead of 彡 on the side); 发/髮 _fà_ /hair of the head/
+* 屈
+** etymology
+originally 尾 + 出, originally referring to the crooked/bent tail of an animal, perhaps a dog.
+* 几
+** etymology
+The simple-form character 几 *conflates* two old characters:
+
+几 _jī_ /small table/bench/
+幾 _jī; jǐ_ /almost; how (many)/
+
+- 几 /small table/ is a depiction of a table.
+
+- 幾 depicts a person 人 trapped in silk ropes 𢆶, being cut free by a spear 戈, indicating its original meaning /danger/. Its modern meaning /a few; how many/ is via sound loan. (Outlier)
+- 幾 /subtle signs/omens; crisis/danger/peril/ combines 𢆶 _yōu_ /fine threads/, and 戍 _shù_ /garrison/defend/: (lit. /sensitive to/ + /signs of danger that needs defending/) (Defrancis)
+
+- Presumably as Mandarin prefers 桌 _zhuō_ for /table/ these days, the conflation was seen as an easy way to reduce strokes. However, you can't help wondering why the cursive form wasn't just used for clarity and historical consistency (eg. 茉)  or a extant simplified form (eg. 𡗞)
+
+* 时
+** etymology
+The early form of this character was 旹, suggesting that the full form 時 formerly combined 旹 and 寸, not 日 and 寺. At some point the 日 was pushed to the side and a 屮/寸 was inserted from the bottom, presumably to clarify the meaning (/hand keeping time/). Older graphs associated with 時/旹 are written 𣥜, with the top part 止 _zhǐ_ /foot/ > /stand/stop/ > /beat the foot, keep time/. 
+The simple form 时 is drawn from later Tang cursive.
+The early characters 旹 _shí_ /time/, 是 _shì_ /to be/ and 㫩(春) _chūn_ /springtime/ look remarkably similar.
+寸 is 又 hand + 一, /a mark/pressing on the wrist/ > /counting, measuring the pulse/ 
+* 坞
+** etymology
+土 _tǔ_ /earth/ and 乌(烏) _wū_ phonetic.
+* 乌
+** etymology
+said to modify 鸟/鳥 _niǎo_ /bird/, omitting the dot 丶 ‘eye’: the crow's eye, as black as its feathers, is invisible against the feathers
+* 暂
+** etymology
+暂/暫 _zàn_ /short period of time/ combines 斩/斬 _zhǎn_ /chop/hack up/ (phonosemantic), and 日 _rì_ /day; time/
+* 领
+** etymology
+The Shuōwén Seal form of 领/領 _lǐng_ /neck/throat/  combines 页/頁 _yè_ /head/, and 令 _lìng_ (phonosemantic).
+Compare: 令 _lìng_ /(issue an) order/command/; 领/領 is semantically close to 令 /lead/leader/, and apparently. formerly written 令.
+Note: 领袖 _lǐngxiù_ /leader/, (lit.) “collar and sleeve”, by metonymy, in reference to formal/ritual/military attire (uniform → leader).
+Compare: 领/領 _lǐng_ /neck/throat; collar/neck (of a garment)/ > lead the way; accept; understand/comprehend; command/lead, have jurisdiction over; govern; record, take notes; etc.’ (HDZ).
+* 导
+** etymology
+The Shuōwén Seal form of 导/導 _dǎo_ /lead (the way)/ combines 寸 _cùn_ /hand/wrist/pulse/measure/, and 道(𨖁) _dào_ /way/path/road/ (phonosemantic); to take someone by the hand, and lead them down the path, in a measured/careful way; formerly pronounced 導 _dào_, formerly written 道. Some early variants have 木 instead of 寸, likely a corruption from the seal form, where the dot of 寸 is a 一. This variant can still be seen in some cursive forms.
+In the simplified form 导, the upper full-form component 道 is replaced with a shape like 巳 _sì_ (not 已 _yǐ_, nor 己 _jǐ_). This is a *bad* simplification, as we lose a semantic that we know how to write already, and instead have to write a squiggle instead. /who decided this!?/
+* 鬼
+** etymology
+The Shuōwén Seal form of 鬼 _guǐ_ /ghost/spirit/demon/ is said to depict a ghost. It has the 甶 _fú_ /demon head/ over 儿(人) /person/, with 厶 added for the noxious/harmful energy of ghosts; since the component 厶(私) _sī_ /private/ is associated with 陰(侌𠆭) _yīn_ /dark principle/, it is the same component as at the bottom of 侌 _yīn_ and 云 _yún_ /cloud/..
+Compare: 甶 _fú_ /demon head/; 凶 _xiōng_ /fierce, ominous/; 囟(𦥓) _xìn_ /fontanel (the gap between the bones in an infant skull); 傀 _guī_ /peculiar/strange/, 傀 _kuǐ_ /puppet/.
+Compare: 畏(𤱫𤱖) _wèi_ /fear/fearful/
+* 依
+Written Chinese uses this a lot for 'listen to/take sbs advice'. eg.
+卓依言
+Dong Zhuo took his advice (ie. he listened to what he said and followed his advice)
+* 事
+** etymology
+Originally 事 _shì_ /do official duties/, 史 _shǐ_ /one who keeps records/ and 吏 _lì_ /government official/ were all the same character, depicting a hand holding an object up. The original character is ancient, dating  from thousands of years ago; we do not know what the object depicted is, despite there being many theories. It is variously written in seal script as 中 古 止 屮
+Compare also with 寺 _sì_, 侍 _shì_ /do official duties/, where the original character is a hand at the bottom and a 止 at the top 
+* 妻
+** etymology
+A development of the idea of 史(㕜) _shǐ_ /one who keeps records; government official/: with the addition of 女, gives the meaning attendant to the rank/honor of the formal/legal/primary wife with certain traditional duties, the maintenance of a certain demeanor, tending the household, child rearing, etc., the 'official' in charge of the home.
+Karlgren suggests this character is in fact simply a 女 /woman/ holding a 彐 /broom/ in her hand. This sits in accordance with the modern character 妇(婦) /married woman/, and some early forms of this character do look to be this. Both etymologies may be correct, as we do not know what the 中/古 tool at the  top of 史 is - it may be being specified as a broom in this character. 
+Compare with 事  史  吏
+* 沈
+沈 is a simplified character with one meaning and a traditional character with another...
+沈 is used as the simplified form of 瀋 _shěn_ /liquid essence/
+沉 is used as the simplified form of 沈  _chén_ /sink down; profound/ 
+BUT 冗 is conflated with 冘 in other simplified characters, as in 忱 chén ‘sincere’, 枕 zhěn ‘pillow’, 耽 dān, etc. The situation is highly confusing, this is a *bad* simplification!
+* 沉
+See notes on 沈 for the terribly confusing 'simplification' of this character
+* 图
+Japanese simplification is 図, drawn from late cursive forms, as opposed to the Chinese simplified form, which is more typical of earlier cursive (Jin, Tang dynasty).
+* 龙
+Japanese simplified form is 竜
+* 圆
+Japanese simplified form is 円
+* 广
+Japanese simplified form is 広
+* 归
+Japanese simplified form is 帰
+* 齿
+Japanese simplified form is 歯
+* 图
+Japanese simplified form is 図
+* 佛
+Japanese simplified form is 仏
+* 假
+Japanese simplified form is 仮
+* 罐
+Japanese simplified form is 缶
+* 粹
+Japanese simplified form is 粋
+* 边
+Japanese simplified form is 辺
+* 变
+Japanese simplified form is 変
+* 实
+Japanese simplified form is 実
+* 卖
+Japanese simplified form is 売
+* 续
+Japanese simplified form is 続
+* 应
+Japanese simplified form is 応
+* 艺
+Japanese simplified form is 芸
+* 驿
+Japanese simplified form is 駅
+* 转
+Japanese simplified form is 転
+* 围
+Japanese simplified form is 囲
+* 龟
+Japanese simplified form is 亀
+** etymology
+The simple-form character 龟 is an abbreviation of the full-form character 龜, keeping the first part ⺈ , but replacing the rest with a shape like 电, derived from an old variant 𤕣.
+The full-form character 龜 is derived from old pictographs; there are a surprising number of old variant forms of this character.
+In the full form, the top may be wr. ⺈(龜) or 丶(⻱)
+In the simple form 龟, an abbreviation of old 𤕣, the shape 电 is consistent with 甲 _jiǎ_ /shell/
+Compare: 黾/黽(𪓑) _měng_ /frog/
+Compare variants: 亀, 𪚨, 𪚧, 𪚺, 𧑴, 𪚿, 𪚦, 𪚴, 𤕣, 𠁴, 𠃾...！
+* 单
+Japanese simplified form is 単
+* 亚
+Japanese simplified form is 亜
+* 乐
+Japanese simplified form is 楽
+* 铁
+Japanese simplified form is 鉄
+* 关
+Japanese simplified form is 関
+* 压
+Japanese simplified form is 圧
+* 缘
+Japanese simplified form is 縁
+* 渴
+Japanese simplified form is 渇
+* 冰
+Japanese simplified form is 氷
+* 耻
+The simple-form character 耻 (10 strokes) is an old variant of the full-form character 恥 (10 strokes), replacing the full-form component 心 (4 strokes) with 止 (4 strokes). The simplified form prefers presenting a phonetic (_zhǐ_) over a semantic (心 /feeling/). The old variant was presumably chosen because the options for _chǐ_ phonetic components to build a new character from aren't great: 尺, 斥, 齿.
+This is an *unnecessary* simplification, imo.
+* 掷
+Phonetic component is 郑 (鄭) _zhèng_
+* 异
+** etymology
+The modern simple form 异 _yì_ /different/ *conflates* two separate characters:异 and 異. Defrancis says异 has long been used as an  abbreviation of 異 _yì_ /different/, but I'm not so sure. The cursive form is in fact 龴+ ㇖ +夫. 异 was included in the first round of simplification, but the rule is not applied at a component level (meaning I think this is a *pointless* simplification). Note that the oldest usages of these two characters were different:
+1. The Shuōwén Seal form of 异(𢍀) _yì_ /raise/lift up (hands/etc., in surprise/etc.); use (hands/etc.)/ combines 巳(㠯已以) _yǐ_ /use/ (phonosemantic), and 廾(𠬞) _gǒng_ /upraised hands/; the component 廾 was added to 巳 in order to distinguish certain old meanings of 巳/以 /use/usual/ to give the meaning /special use/unusual/
+2. The Shuōwén Seal form of 異(𠔱) _yì_ /divide/distinguish (differences)/ combines 廾(𠬞艸) _gǒng_ /raised hands/, and 畀(畁) _bì_ /give/; 廾/艸 is inserted in the middle of 畀, making a distinction between giving and receiving (between this/mine and that/yours); the modern form 異 looks like 田 over 共, but these are not the original components.
+
+Old oracle bone and seal graphs associated with 異 are said to be old forms of 戴 _dài_ /put/wear (something on the head)/, perhaps a dramatic/ritual mask; other old forms are said to depict a person with upraised hands shielding/protecting the face (in the face of danger/attack). This character then had 𢦏 appended, perhaps as the meaning became conflated with 載. In SW the meanings of 戴 are said to extend from those of 異 /different/ (a person (actor) putting on (wearing) a mask (hat/glasses/etc.) becomes/seems different). 
+
+Compare: 戴, 翼, 冀, 瀵, 粪/糞, in which 異 is a component, but not simplified to 异. 
+
+* 戴
+** etymology
+Old oracle bone and seal graphs associated with 異 are said to be old forms of 戴 _dài_ /put/wear (something on the head)/, perhaps a dramatic/ritual mask; other old forms are said to depict a person with upraised hands shielding/protecting the face (in the face of danger/attack). This character then had 𢦏 appended, perhaps as the meaning became conflated with 載. In SW the meanings of 戴 are said to extend from those of 異 /different/ (a person (actor) putting on (wearing) a mask (hat/glasses/etc.) becomes/seems different). 
+* 哉
+essentially just 啊！
+* 既
+** etymology
+既 is an abbreviation of the old form 旣, replacing 皀 on the left with 㫐 (omitting the top dot, as in 即). The component is not 艮 or 良 (which have similar shapes in some compound characters).
+The development of the abstract meaning: 既(旣) _jì_ /finish a small meal/ > /finished/ > /already/, combines 皀 _jí_ /fragrant grain/ (phonosemantic), and 旡 _jì_ /belch (after eating)/ (phonosemantic).
+* 贺
+Originally meant /to present celebratory/congratulatory gifts/, hence 加 (phonosemantic) /increase/ + 贝 /money/
+Compare with 嘉 _jiā_ /praise/honor/ 
+* 凶
+凶 and 兇 were originally different characters with different (but replated) meanings, which have been *conflated* in the simplified:
+
+1. 凶 /terrible, disaster/
+2. 兇 /violent, cruel (person)/
+
+凶 is said to depict a 凵 _qiǎn_ /gaping pit/ (pitfall, spiked trap) into which 乂 someone/something has fallen or may fall. Adding 儿 makes this idea of 'terrible' into a person who is terrible
+* 灭
+** etymology
+灭 is an invention from the first round of simplification. It takes the inner bottom left part of the original character as its full form. Its not a bad simplification imo.
+滅 is 氵 /water/ + 烕 /extinguish, destroy/; 烕 is 火 /fire/ + 戌 /destroy/
+* 且
+** etymology
+且  originally depicted a /sacrificial altar/: a 几 /table/stand/altar/ with 二 two shelves, standing on the 一 ground; the old form 𠀃 lacked the shelves.
+Older graphs associated with 且  are connected with 祖 _zǔ_ /ancestor; ancestral tablet/, and esp. with 俎 _zǔ_ /sacrificial/festal vessel/.
+* 召
+** etymology
+combines 刀 _dāo_ /knife/ (phonosemantic)  and 口 /mouth/voice/: a call to 刀 arms (征召), a call for support (招致).
+* 刀
+** etymology
+a depiction of a knife. The perpendicular stroke appears to be a remnant of the crossguard (sits between the hilt and the blade), or the bolster (the thick bottom of the blade). The blade at some point changed to be drawn with just a single stroke, presumably because at some point /everyone/ was familiar with this character and it no longer needed to be drawn in full. The abstraction appears to have taken place very early in the seal script era, and the character was stable from then on.
+* 邕
+** etymology
+combines 川(巛) _chuān_ /river/, and 邑 _yì_ /city-state/; the moat was a river channel engineered to ring the city, to defend it and carry away sewage/refuse; the old variant form 𡿷 is reminiscent of 营(營) /camp/; cf. 宫(宮) _gōng_ /palace/.
+* 挠
+(wr.) belligerently annoy and cause issues for the enemy 
+compare: 绕 _rào_ to wind, coil, go round (remember: uses 纟)
+* 填
+For why the right hand side is written 眞, see 真
+* 真
+** etymology
+Outlier: originally 貝 semantic (for the original meaning /valuable/), 十 (𠤎)  is a corruption of a lost sound component, 一 + 八 at the bottom are a corruption of 丁, also a sound compononent (the sound of 𠤎 was forgotten, so 丁 was added, but now that has been forgotten also!)
+Defrancis etymology is rather apocryphal: 真(眞) _zhēn_ originally meant /transcendent Daoist immortal/. The seal form combines:
+- 𠤎 _huà_ /die/ (man upside down)
+- 目 _mù_ /eyes/vision/form/
+- 𠃊 _yǐn_ /hide/ (oneself; become invisible/formless)
+- 八 _bā_ /eight/ (trigrams)
+/Transcendent Daoist immortal/ >  /absolute sincerity/honesty/ > /pure/ > /original/innate/natural/ > /true/real/authentic/
+
+季旭昇 gives a list of suggestions for where this character may have come from, including it being a simplification of 鼎 (see p664).
+I think it is  clear that the original character was  𠤎 + 貝, then perhaps some kind of stand. Preparing shellfish (for eating)?
+* 貝
+** etymology
+Originally a depiction of a spiky shellfish with claws/legs coming out at the bottom. Ancient character that gradually stylised into the modern form. Simplified form 贝 is an ancient simplification. Appears as a semantic component in words related to ‘treasure/money’ because strings of cowrie shells in ancient China were used as jewelry, traded, and served as money. Shells were replaced by coins in the Qin dynasty 
+* 赚
+The character 賺 _zhuàn_ /buy low, sell high/ combines 貝 _bèi_ /money/, and 兼 _jiān_ /thrifty/ (phonosemantic)
+賺 _zuàn_ is a relatively late reading (no fanqie for this in the Han dynasty Shuowen), and the readings are unusual for characters with 兼 (usually jian/lian)
+* 安
+* 荆
+Note that in the simplified version of this character, the 艹 only covers the left side of the character. This is a rare variant of the full form. The full-form character 荊 reflects the traditional structure of the Seal form, with 艹 over 刑 (not 茾+刂, as in the simple form).
+It appears that the existence of these two characters as separate unicode points is a mistake, and they should have been treated as one character.
+* 道
+* 钻
+typically 4th tone for the noun, 1st tone for verb. Common is *钻入* _zuānrù_ to enter/go into (usu. a small hole)
